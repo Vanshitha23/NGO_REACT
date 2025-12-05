@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vanshitha23/NGO_REACT/static/css/main.5e4dfe5f.css",
+    "main.js": "/Vanshitha23/NGO_REACT/static/js/main.0cf94514.js",
+    "static/js/453.afcf35a6.chunk.js": "/Vanshitha23/NGO_REACT/static/js/453.afcf35a6.chunk.js",
+    "index.html": "/Vanshitha23/NGO_REACT/index.html",
+    "main.5e4dfe5f.css.map": "/Vanshitha23/NGO_REACT/static/css/main.5e4dfe5f.css.map",
+    "main.0cf94514.js.map": "/Vanshitha23/NGO_REACT/static/js/main.0cf94514.js.map",
+    "453.afcf35a6.chunk.js.map": "/Vanshitha23/NGO_REACT/static/js/453.afcf35a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4dfe5f.css",
+    "static/js/main.0cf94514.js"
+  ]
+}
